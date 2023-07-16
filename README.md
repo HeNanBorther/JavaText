@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//任务需求：打印出任何数一个范围的所有数字综合以及奇偶数
+#任务需求：打印出任何数一个范围的所有数字综合以及奇偶数
 public class TextEventing {
     public static void main(String[] args) {
 #        输入参数
